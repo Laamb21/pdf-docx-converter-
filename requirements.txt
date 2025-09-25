@@ -1,0 +1,7 @@
+pdf2docx
+docx2pdf
+python-docx
+pypdf
+loguru
+ocrmypdf
+pdfplumber

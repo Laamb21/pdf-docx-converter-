@@ -1,0 +1,17 @@
+# venv & Python cruft
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# logs and local outputs
+logs/
+tests/out/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# local machine config
+converter/settings.json
